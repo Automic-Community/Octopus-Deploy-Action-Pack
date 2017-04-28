@@ -21,6 +21,31 @@ Documenation and Instructions
 <p>The Octopus Deploy Action Pack allows you to orchestrate Octopus Deploy in order to deploy .NET applications as part of your automated Application Release workflows. This could be a provisional step before migrating to native deployment and management capabilities within Automic Release Automation.</p>
 <p>&nbsp;</p>
 <p>The action pack uses the Octopus Deploy CLI which can be downloaded from the Octopus web site.</p>
+<p>&nbsp;</p>
+<p>The action pack contains the following actions:</p>
+<ul>
+<li>Clean Environment</li>
+<li>Create Auto Deploy Override</li>
+<li>Create Channel</li>
+<li>Create Environment</li>
+<li>Create Release</li>
+<li>Delete Auto Deploy Override</li>
+<li>Delete Releases</li>
+<li>Deploy Release</li>
+<li>Dump Deployments</li>
+<li>Export</li>
+<li>Import</li>
+<li>List Deployments</li>
+<li>List Environments</li>
+<li>List Latest Deployments</li>
+<li>List Machines</li>
+<li>List Projects</li>
+<li>List Releases</li>
+<li>List Tenants</li>
+<li>Pack</li>
+<li>Promote Release</li>
+<li>Push Package</li>
+</ul>
 
 Copyright and License
 ---
