@@ -17,6 +17,7 @@ Contents of Solution Package:
 Documenation and Instructions
 ---
 
+<p><img src="https://cdn.xebialabs.com/assets/files/plugins/octopus.jpg" alt="" width="365" height="274" /></p>
 <p>Octopus Deploy is a tool to deploy .NET applications to Windows servers.</p>
 <p>The Octopus Deploy Action Pack allows you to orchestrate Octopus Deploy in order to deploy .NET applications as part of your automated Application Release workflows. This could be a provisional step before migrating to native deployment and management capabilities within Automic Release Automation.</p>
 <p>&nbsp;</p>
